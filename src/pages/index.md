@@ -3,7 +3,7 @@ templateKey: index-page
 title: Good morning Andrea Gloor!
 image: /img/home-jumbotron.jpg
 heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+subheading: We know what you did last night with the Swiss guy!
 mainpitch:
   title: Why Kaldi
   description: >
